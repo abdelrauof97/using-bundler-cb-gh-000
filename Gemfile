@@ -1,6 +1,6 @@
 source "https://rubygems.org"
 
-gem "hashie"
+gem "Hashie"
 
 group :test do
   gem "rspec"
