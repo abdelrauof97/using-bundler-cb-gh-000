@@ -1,4 +1,4 @@
-#require "../environment.rb"
+require "../environment.rb"
 Hashie
 Sinatra
 Octokit
