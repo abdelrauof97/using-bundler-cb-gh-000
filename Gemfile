@@ -3,6 +3,6 @@ gem "rspec"
 gem "sinatra"
 gem "hashie"
  
-group :development do
+group :test do
   gem "pry"
 end
