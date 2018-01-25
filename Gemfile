@@ -1,7 +1,7 @@
 source "https://rubygems.org"
 
 gem "hashie"
- 
-group :test do 
+
+group :test do
   gem "rspec"
 end
